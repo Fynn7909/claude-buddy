@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "org.franz.claudebuddy",
+    "Name": "Claude Buddy",
+    "Description": "Das Claude-Maskottchen: wach, solange du mit Claude Code arbeitest, und fasst die letzte Antwort in einem Satz zusammen",
+    "Icon": "claude-hub",
+    "Category": "Utilities",
+    "Authors": [{ "Name": "Fynn7909" }],
+    "Version": "1.0",
+    "License": "GPL-2.0+"
+  }
+}
